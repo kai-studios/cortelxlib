@@ -4,6 +4,7 @@ recursive-include cortelxlib *.py
 # Включить лицензии и README файлы
 include LICENSE
 include README.md
+include pyproject.toml
 
 # Включить другие важные файлы, если необходимо
 # include requirements.txt
