@@ -1,0 +1,9 @@
+# Включить все Python файлы
+recursive-include cortelxlib *.py
+
+# Включить лицензии и README файлы
+include LICENSE
+include README.md
+
+# Включить другие важные файлы, если необходимо
+# include requirements.txt
